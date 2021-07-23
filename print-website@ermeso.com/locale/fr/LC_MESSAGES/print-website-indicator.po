@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Print Website 5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-18 13:38-0300\n"
+"PO-Revision-Date: 2021-07-18 18:10-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+msgid "Url from site..."
+msgstr "URL du site..."
+
+msgid "Screenshot"
+msgstr "Capture d'écran"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Create API key"
+msgstr "Créer une clé API"
+
+msgid "Download has been initialized"
+msgstr "Le téléchargement a été initialisé"
+
+msgid "A notification will be sent when the download is complete."
+msgstr "Une notification sera envoyée lorsque le téléchargement sera terminé."
+
+msgid "Download successful!"
+msgstr "Téléchargement réussi !"
+
+msgid "Error on download!"
+msgstr "Erreur lors du téléchargement !"
+
+msgid "Set a valid API key in Settings of this extension."
+msgstr "Définissez une clé API valide dans les paramètres de cette extension."
+
+msgid "Error on download"
+msgstr "Erreur lors du téléchargement"
+
+msgid "Download not initialized!"
+msgstr "Téléchargement non initialisé !"
+
+msgid "API key active"
+msgstr "Clé API active"
+
+msgid "Your API key"
+msgstr "Votre clé API"
+
+msgid "Reload API key"
+msgstr "Recharger la clé API"
+
+msgid "Reload"
+msgstr "Recharger"
