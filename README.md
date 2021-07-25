@@ -8,7 +8,7 @@ Extension page: https://extensions.gnome.org/extension/4404/print-website/
 		
 ```bash
   cd ~/.local/share/gnome-shell/extensions/
-  git clone https://github.com/Ermeso/gnome-shell-extension-print-website.git print-website@ermeso.com
+  git clone https://github.com/ermesonsampaio/gnome-shell-extension-print-website.git print-website@ermeso.com
 ```
 		
 Then in Extensions, configure the extension.
