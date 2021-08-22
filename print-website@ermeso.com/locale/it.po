@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-shell-extension-print-website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-18 16:24-0300\n"
+"PO-Revision-Date: 2021-08-22 19:42+0200\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Albano Battistella <albano_battistella@hotmail.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+msgid "Url from site..."
+msgstr "URL dal sito..."
+
+msgid "Screenshot"
+msgstr "Screenshot"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Create API key"
+msgstr "Crea chiave API"
+
+msgid "Download has been initialized"
+msgstr "Il download è stato inizializzato"
+
+msgid "A notification will be sent when the download is complete."
+msgstr "Al termine del download verrà inviata una notifica."
+
+msgid "Download successful!"
+msgstr "Download riuscito!"
+
+msgid "Error on download!"
+msgstr "Errore durante il download!"
+
+msgid "Set a valid API key in Settings of this extension."
+msgstr "Imposta una chiave API valida nelle Impostazioni di questa estensione."
+
+msgid "Error on download"
+msgstr "Errore durante il download"
+
+msgid "Download not initialized!"
+msgstr "Download non inizializzato!"
+
+msgid "API key active"
+msgstr "Chiave API attiva"
+
+msgid "Your api key"
+msgstr "La tua chiave API"
+
+msgid "Reload api key"
+msgstr "Ricarica chiave API"
+
+msgid "Reload"
+msgstr "Ricarica"
