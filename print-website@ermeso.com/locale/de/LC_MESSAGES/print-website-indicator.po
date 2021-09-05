@@ -25,7 +25,7 @@ msgid "Screenshot"
 msgstr "Bildschirmfoto"
 
 msgid "Settings"
-msgstr "die Einstellungen"
+msgstr "Einstellungen"
 
 msgid "Create API key"
 msgstr "API-Schlüssel erstellen"
