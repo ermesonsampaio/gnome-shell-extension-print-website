@@ -1,0 +1,10 @@
+<schemalist>
+  <schema 
+    id="org.gnome.shell.extensions.print-website"
+    path="/org/gnome/shell/extensions/print-website/"
+  >
+    <key name="api-key" type="s">
+      <default>""</default>
+    </key>
+  </schema>
+</schemalist>
